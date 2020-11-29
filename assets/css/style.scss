@@ -1,1 +1,10 @@
 @import "{{ site.theme }}";
+
+
+table#gallery.td{
+  vertical-align:top;
+}
+
+table#gallery.tr{
+  margin-bottom: 20px;
+}
