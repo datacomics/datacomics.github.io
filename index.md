@@ -7,8 +7,7 @@ If you find or create your own data comics, get in touch with us. If you want to
 
 # Gallery
 
-<table id="test">
-	Hello world.
+<table id="gallery">
 </table>
 
 
