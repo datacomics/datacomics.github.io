@@ -1,6 +1,4 @@
-<script>
-	console.log('Hello world')
-</script>
+<script src='app.js'></script>
 
 # Data Comics
 
