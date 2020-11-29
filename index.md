@@ -15,17 +15,20 @@ If you find or create your own data comics, get in touch with us. If you want to
 	</a></h2>	
 		<p>Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gon</p> 
 		<i>Published by The Guardian</i>
-	</td>
-    </tr>
+	</td></tr>
+	
+	<tr><td width="50%">
+		<img src="teasers/woman.png"/>
+	</td><td><h2>
+		<a href="https://thenib.com/the-political-future-is-female">
+		The Political Future is Female
+	</a></h2>	
+		<i>Created by <a href="https://thenib.com/author/stats-x">Stats, published by <a href="https://thenib.com">The Nib</a></i>
+	</td></tr>
+	
+	
+	
 </table>
-
-
-
-## [Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone](https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic) 
-Published by The Guardian
-
-## [The Political Future is Female](https://thenib.com/the-political-future-is-female)
-by [Stats](https://thenib.com/author/stats-x), published by [The Nib](https://thenib.com/)
 
 ##[Ireland Just Legalized Abortion. What About the Rest of the World](https://thenib.com/ireland-just-legalized-abortion-what-about-the-rest-of-the-world/?t=recent)
 by [Stats](https://thenib.com/author/stats-x), published by [The Nib](https://thenib.com/)
