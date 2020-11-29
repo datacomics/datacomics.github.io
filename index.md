@@ -9,8 +9,8 @@ If you find or create your own data comics, get in touch with us. If you want to
 
 <table>
     <tr>
-	<td>
-		<img  width="200px" src="teasers/plastic.png"/>
+	<td width="200px">
+		<img src="teasers/plastic.png"/>
 	</td>
 	<td>
 		<h2><a href="https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic">
