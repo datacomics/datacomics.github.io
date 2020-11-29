@@ -64,14 +64,36 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
+    
+    <script id="hidden-template" type="text/x-custom-template">
+      <tr>
+        <td width="50%">
+          <img/>
+        </td>
+        <td>
+          <h2><a href=""></a></h2>	
+          <p></p> 
+          <i></i>
+        </td>
+      </tr>
+    </script>
+    
     <script>
-        console.log('script works')
-//         var data = d3.csvParse('data.csv', function(d) {
-//           console.log('d: ', d) 
-//         });
         d3.csv("data.csv",function(d) {
           console.log('d: ', d) 
+          
+          var template = $('#hidden-template').html();
+          var item = $(template).clone();
+          
+          $(item).find('img').attr('src','teasers/' + d.image  ) ;  
+          $(item).find('a').attr('href', d.url);  
+          $(item).find('a').html(d.title);  
+          $(item).find('p').html(d.description);  
+          $(item).find('i').html(d.author);  
+
+          $('#gallery').append(item);
         })
+          
      
     </script>
     
