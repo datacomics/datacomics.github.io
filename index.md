@@ -1,4 +1,3 @@
-<script src='app.js'></script>
 
 # Data Comics
 
@@ -7,6 +6,10 @@ Data comics are a way of effectively communicating with data through data visual
 If you find or create your own data comics, get in touch with us. If you want to know more about research, see our publications.
 
 # Gallery
+
+<h1 id="test">
+	Hello world.
+</h1>
 
 <table>
 	<tr><td width="50%">
