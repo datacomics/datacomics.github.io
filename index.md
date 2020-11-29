@@ -17,7 +17,7 @@ If you find or create your own data comics, get in touch with us. If you want to
 		<i>Published by The Guardian</i>
 	</td></tr>
 	<tr><td width="50%">
-		<img src="teasers/woman.png"/>
+		<img src="teasers/women.png"/>
 	</td><td><h2>
 		<a href="https://thenib.com/the-political-future-is-female">
 		The Political Future is Female
