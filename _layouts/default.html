@@ -7,6 +7,8 @@
     <link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -63,9 +65,10 @@
       </footer>
     </div>
     <script>
-        console.log('Hello World');
-        $(document).ready(function() {
-          $('#test').text('You, too');
+        var data = d3.csvParse('data.csv', function(d) {
+          return {
+            console.log('d' + d);
+          };
         });
     </script>
     
