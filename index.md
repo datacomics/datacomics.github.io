@@ -9,37 +9,3 @@ If you find or create your own data comics, get in touch with us. If you want to
 
 <table id="gallery">
 </table>
-
-
-## [Ireland Just Legalized Abortion. What About the Rest of the World](https://thenib.com/ireland-just-legalized-abortion-what-about-the-rest-of-the-world/?t=recent)
-by [Stats](https://thenib.com/author/stats-x), published by [The Nib](https://thenib.com/)
-
-## [Isotype Comics](isotype.html)
-by Gerd Arntz and Otto Neurath
-
-## [Smoking](smoking.html)
-by Terri Po
-
-## [Drawing the Poverty Line](poverty.html) 
-by Lovisa Sundin
-
-## [Mass Exinctions](massextinctions.html)
-by Heidi Tamminen
-
-## [Upper Middle Working](uppermiddle.html)
-by Geraldine Sawyert
-
-## [Weekly Sleep](weeklysleep.html)
-by Zezhong Wang
-
-## [CO2-Footprint](co2footprint.html)
-by Benjamin Bach
-
-## [Alliances before World War I](ww1.html)
-by Benjamin Bach
-
-## [Data Comics: Sequential Art for Data-Driven Storytelling](a7a70a9cc3dfdaec99f0c240a04830191827)
-by Zhenpeng Zhao, Rachael Marr, and Niklas Elmqvist, 2015
-
-## [Coton Brut](cotonbrut.html)
-by Joseph Minard, around 1880
