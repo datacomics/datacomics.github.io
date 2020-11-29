@@ -6,7 +6,41 @@ If you find or create your own data comics, get in touch with us. If you want to
 
 # Gallery
 
+<table>
+	<div width="200px">
+		
+		![](teasers/plastic.png)
 
+	</div>
+	<div>
+		
+		## [Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone](https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic) 
+Published by The Guardian
+
+	</div>
+</table>
+
+
+<table>
+	<div width="200px">
+		![](teasers/plastic.png)
+	</div>
+	<div>
+		## [Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone](https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic) 
+Published by The Guardian
+	</div>
+</table>
+
+
+<table>
+	<div width="200px">
+		<img SC="teasers/plastic.png"/>
+	</div>
+	<div>
+		<h2><a href="https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic">Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone</a></h2> 
+		<p>Published by The Guardian</p>
+	</div>
+</table>
 
 ## [Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone](https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic) 
 Published by The Guardian
