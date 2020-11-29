@@ -10,14 +10,19 @@
     <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.scss?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     <style>
-    .red {color: #FD3B3B;}
-/*      body {font-family: Poppins; } */
-    </style>
+      table#gallery td{
+        vertical-align:top;
+      }
+
+      table#gallery tr{
+        margin-bottom: 50px;
+      }
+    
   </head>
   <body>
     <div class="wrapper">
