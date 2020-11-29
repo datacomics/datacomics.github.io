@@ -1,14 +1,27 @@
-title,image,url,description,author
-Plastic Universe,plastic.png,https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic,Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone.,Published by The Guardian
-The Political Future is Female,women.png,,Created by <a href="https://thenib.com/author/stats-x">Stats and published by <a href="https://thenib.com">The Nib</a>
-Ireland Just Legalized Abortion,https://thenib.com/ireland-just-legalized-abortion-what-about-the-rest-of-the-world/?t=recent,abortion.png,Ireland Just Legalized Abortion. What About the Rest of the World,by [Stats](https://thenib.com/author/stats-x), published by [The Nib](https://thenib.com/) 
-Isotype Comics,isotype-birds,isotype.png,isotype.html,,by Gerd Arntz and Otto Neurath
-Smoking,smoking,smoking.html,Tells the story of smoking among Scottish children and young adults,by Terri Po
-Drawing the Poverty Line,poverty.png,poverty.html,Child Poverty and in Scotladn,by Lovisa Sundin
-Mass Exinctions,mass-exctiction.png,massextinctions.html,Created in a 2-weeks workshop by Edinburgh College of Art Illustrtion student.,by Heidi Tamminen
-Upper Middle Working,upper-middle,uppermiddle.html,,by Geraldine Sawyert
-Weekly Sleep,weekly-sleep.png,weeklysleep.html,A personal data comic.,by Zezhong Wang
-C0-2 footprint,co2footprint.png,co2footprint.html,,by Benjamin Bach
-Alliances before World War I,ww1.png,ww1.html,,by Benjamin Bach
-Data Comics: Sequential Art for Data-Driven Storytelling,data-comics.png,,first data comic,by Zhenpeng Zhao, Rachael Marr, and Niklas Elmqvist (2015)
-Coton Brut,minard.png,cotonbrut.html,,"by Joseph Minard, around 1880"
+title,image,url,description,author,,
+4.5 Degrees,45degrees.png,https://www.google.com/url?q=https%3A%2F%2Fxkcd.com%2F1379&sa=D&sntz=1&usg=AFQjCNGuV8y9Ejm7LFsIURD6lMViD8trUA,,by xkcd,,
+Ireland Just Legalized Abortion,abortion.png,https://thenib.com/ireland-just-legalized-abortion-what-about-the-rest-of-the-world/?t=recent,Ireland Just Legalized Abortion. What About the Rest of the World,by [Stats](https://thenib.com/author/stats-x),published by [The Nib](https://thenib.com/),
+A day in the life of americans,americans.png,https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40MattIanHong%2Fhow-americans-spend-each-day-a-data-comic-51817f910dd7&sa=D&sntz=1&usg=AFQjCNE6P2pquzXAiB7frEG60X9YxH0sjg,,by Matt Hong,,
+Baseball Heads Talking,baseball.png,https://baseballsavant.mlb.com/affinity/about,,by Eddie Elliott,,
+Scie,bretvictor.png,http://worrydream.com/#!/ScientificCommunicationAsSequentialArt,,,,
+The Futur Sounds Chinese,languages.png,https://thenib.com/the-future-sounds-like-chinese/,,"by Stats for <a href=""https://thenib.com"">The Nib</a>",,
+C0-2 footprint,co2footprint.png,https://www.datacomics.net/comic_co2,,by Benjamin Bach,,
+Data Comics: Sequential Art for Data-Driven Storytelling,datacomics.png,,first data comic,by Zhenpeng Zhao,Rachael Marr,and Niklas Elmqvist (2015)
+John O'Keefe's Place Cells Experiment,mouse-experiment.png,https://www.datacomics.net/comic_experiment,Illustrating findings from a scientific article,by Mattel Farinella,,
+The Fragile Framework,fragile.png,https://www.google.com/url?q=https%3A%2F%2Fwww.nature.com%2Fpolopoly_fs%2F1.18861!%2Fmenu%2Fmain%2FtopColumns%2FtopLeftColumn%2Fpdf%2F527427a.pdf&sa=D&sntz=1&usg=AFQjCNE28vcPFD9km88sbkKUjJfWraFr6w,Data Comic about the Paris climate change conference,by Nick Sousanis,,
+Hans Rosling,hansrosling.png,https://www.datacomics.net/comic_hansrosling,A comic after Hans Rosling's famous TED talk.,by Zezhong Wang,,
+Isotype Comics,isotype-birds.png,isotype.png,isotype.html,by Gerd Arntz and Otto Neurath,,
+Mass Exinctions,mass-exctiction.png,https://www.datacomics.net/comic_massextinctions,Created in a 2-weeks workshop by Edinburgh College of Art Illustrtion student.,by Heidi Tamminen,,
+Global Migration,migration.png,migration.html,,by Zezhong Wang,,
+Coton Brut,minard-1.png,cotonbrut.html,,"by Joseph Minard, around 1880",,
+Plastic Universe,plastic.png,https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic,Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone.,Published by The Guardian,,
+Drawing the Poverty Line,poverty.png,https://www.datacomics.net/comic_childpoverty,Child Poverty and in Scotladn,by Lovisa Sundin,,
+Poductivity and Wages,productivity.png,https://www.datacomics.net/comic_wage,,by Willikin Woolf,,
+Record Refugees,refugees.png,https://www.google.com/url?q=https%3A%2F%2Fthenib.com%2Frecord-refugees%3Ft%3Ddefault&sa=D&sntz=1&usg=AFQjCNGCGtj_x9ESs7Ed6uFhjF5xumXl0A,,"by Stats for <a href=""https://thenib.com"">The Nib</a>",,
+Smoking,smoking.png,smoking.html,Tells the story of smoking among Scottish children and young adults,by Terri Po,,
+Is that True?,tableau.png,https://public.tableau.com/profile/mikevizneros#!/vizhome/IsThatRight/IsThatTrue,Interactive comic created with Tableau,by Mike Cisneros,,
+Weekly Sleep,weekly-sleep.png,weeklysleep.html,A personal data comic.,by Zezhong Wang,,
+The Political Future is Female,women.png,,,"by <a href=""https://thenib.com/author/stats-x""> for <a href=""https://thenib.com"">The Nib</a>",,
+Alliances before World War I,ww1.png,ww1.html,,by Benjamin Bach,,
+Scottish Household Survey,household.png,https://www.gov.scot/binaries/content/documents/govscot/publications/statistics/2018/11/scottish-household-survey-data-comic-inequality-2017/documents/00543065-pdf/00543065-pdf/govscot%3Adocument/00543065.pdf,,by Katie Quinn,,
+The Journey of Jeans,jeans.png,http://www.clothingpoverty.com/jeans,This comic explores the different connections and relationships embodied in the journey of a pair of jeans around the world. ,"by Andrew Brooks and Katelyn Toth-Fejel. A Cultural Institute at King’s project in collaboration with the Department of Geography, The London College of Fashion, and Here Today, Here Tomorrow.",,
