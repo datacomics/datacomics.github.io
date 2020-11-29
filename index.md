@@ -31,8 +31,8 @@ Published by The Guardian
 	</td>
 	</tr>
 	<tr>
-	<td width="200px">
-		<img SC="teasers/plastic.png"/>
+	<td>
+		<img  width="200px" src="teasers/plastic.png"/>
 	</td>
 	<td>
 		<h2><a href="https://www.theguardian.com/us-news/2019/jun/23/all-the-plastic-ever-made-study-comic">Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gone</a></h2> 
