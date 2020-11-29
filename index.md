@@ -16,7 +16,6 @@ If you find or create your own data comics, get in touch with us. If you want to
 		<p>Humans have made 8.3bn tons of plastic since 1950. This is the illustrated story of where it's gon</p> 
 		<i>Published by The Guardian</i>
 	</td></tr>
-	
 	<tr><td width="50%">
 		<img src="teasers/woman.png"/>
 	</td><td><h2>
@@ -25,9 +24,6 @@ If you find or create your own data comics, get in touch with us. If you want to
 	</a></h2>	
 		<i>Created by <a href="https://thenib.com/author/stats-x">Stats, published by <a href="https://thenib.com">The Nib</a></i>
 	</td></tr>
-	
-	
-	
 </table>
 
 ##[Ireland Just Legalized Abortion. What About the Rest of the World](https://thenib.com/ireland-just-legalized-abortion-what-about-the-rest-of-the-world/?t=recent)
