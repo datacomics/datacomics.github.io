@@ -1,17 +1,17 @@
 
-# Data Comics
+# Data Comics 2
 
 Data comics are a way of effectively communicating with data through data visualizations. They are inspired by the visual language of comics. This page lists examples we found online and those created during our research. We hope this website and our examples support a wider discussion and inspire journalists, artists, data scientists, and others to create their own data comics and help exploring and discovering this novel medium.
 
 If you find or create your own data comics, get in touch with us. If you want to know more about research, see our publications.
 
-# Gallery
+# Data Comics Gallery
 
 <table id="gallery">
 </table>
 
 
-##[Ireland Just Legalized Abortion. What About the Rest of the World](https://thenib.com/ireland-just-legalized-abortion-what-about-the-rest-of-the-world/?t=recent)
+## [Ireland Just Legalized Abortion. What About the Rest of the World](https://thenib.com/ireland-just-legalized-abortion-what-about-the-rest-of-the-world/?t=recent)
 by [Stats](https://thenib.com/author/stats-x), published by [The Nib](https://thenib.com/)
 
 ## [Isotype Comics](isotype.html)
