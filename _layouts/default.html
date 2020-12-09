@@ -77,7 +77,7 @@
       </footer>
     </div>
     
-    <script id="hidden-template" type="text/x-custom-template">
+    <script id="hidden-template-gallery" type="text/x-custom-template">
       <tr>
         <td id="img">
           <img/>
@@ -90,11 +90,22 @@
       </tr>
     </script>
     
+    <script id="hidden-template-designpattern" type="text/x-custom-template">
+      <tr>
+        <td id="img">
+          <img/>
+        </td>
+        <td>
+          <h3></h3>	
+          <p></p> 
+        </td>
+      </tr>
+    </script>
+    
     <script>
         d3.csv("data.csv",function(d) {
-          console.log('d: ', d) 
           
-          var template = $('#hidden-template').html();
+          var template = $('#hidden-template-gallery').html();
           var item = $(template).clone();
           
           $(item).find('img').attr('src','teasers/' + d.image ) ;  
@@ -104,6 +115,18 @@
           $(item).find('i').html(d.author);  
 
           $('#gallery').append(item);
+        })
+          
+      
+        d3.csv("designpatterns.csv",function(d) {
+          var template = $('#hidden-template-designpattern').html();
+          var item = $(template).clone();
+          
+          $(item).find('img').attr('src','designpatterns/' + d.image ) ;  
+          $(item).find('h3').html(d.title);  
+          $(item).find('p').html(d.description);  
+
+          $('#designpattern').append(item);
         })
           
      
