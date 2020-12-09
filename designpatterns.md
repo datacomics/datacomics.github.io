@@ -1,33 +1,33 @@
 # Design Patterns
 
 ## Narrative Patterns
-<table id="narrative">
+<table id="narrative" class="designpatterns">
 </table>
 
 
 ## Temporal Patterns
-<table id="temporal">
+<table id="temporal" class="designpatterns">
 </table>
 
 
 ## Visual Encoding Patterns
-<table id="visualencoding">
+<table id="visualencoding" class="designpatterns">
 </table>
 
 
 ## Facetted Patterns
-<table id="facatted">
+<table id="facatted" class="designpatterns">
 </table>
 
 
 ## Granular Patterns
-<table id="granular">
+<table id="granular" class="designpatterns">
 </table>
 
 ## Spatial Patterns
-<table id="spatial">
+<table id="spatial" class="designpatterns">
 </table>
 
 ## Miscellaneous Patterns
-<table id="misc">
+<table id="misc" class="designpatterns">
 </table>
