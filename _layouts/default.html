@@ -119,6 +119,7 @@
           
       
         d3.csv("designpatterns.csv",function(d) {
+
           var template = $('#hidden-template-designpattern').html();
           var item = $(template).clone();
           
@@ -126,7 +127,7 @@
           $(item).find('h3').html(d.title);  
           $(item).find('p').html(d.description);  
 
-          $('#designpattern').append(item);
+          $('#'+d.type).append(item);
         })
           
      
