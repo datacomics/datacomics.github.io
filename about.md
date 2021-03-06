@@ -3,7 +3,7 @@ Data comics are a way of effectively communicating with data through data visual
 
 # People involved
 
-* Benjamin Bach (University of Edinburgh),
+* [Benjamin Bach](http://benjbach.me) (University of Edinburgh),
 * Zezhong Wang (University of Edinburgh)
 * Nathalie Henry Riche (Microsoft Research),
 * Matteo Farinella (Columbia University, New York)
