@@ -1,5 +1,9 @@
 # Publications
 
+**Interactive Data Comics** 
+Zezhong Wang, Hugo Romat, Fanny Chevalier, Nathalie Henry Riche, Dave Murray-Rust and Benjamin Bach 
+*IEEE Transactions on Visualization and Computer Graphics (TVCG) 2022 (IEEE VIS, 2021))*
+
 **Data Comics for Reporting Controlled User Studies in Human-Computer Interaction**
 Zezhong Wang, Jacob Ritchie, Jingtao Zhou, Fanny Chevalier, Benjamin Bach
 *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021 (IEEE VIS, 2020))*
